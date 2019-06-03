@@ -1,0 +1,36 @@
+{
+  "ChatContentList": [
+    {
+      "id": "1",
+      "teller": "1",
+      "headImg": "mysteryMen",
+      "content": "听说你在表情包界已经天下无敌了？"
+    },
+    {
+      "id": "2",
+      "teller": "0",
+      "headImg": "mogutou",
+      "content": "那是当然，我发起疯来，连我自己都会打！"
+    },
+    {
+      "id": "3",
+      "teller": "1",
+      "headImg": "mysteryMen",
+      "content": "那你敢接受我的挑战吗？"
+    },
+    {
+      "id": "4",
+      "teller": "0",
+      "headImg": "mogutou",
+      "content": "有何不可？怕你我就不是表情包界的扛把子！"
+    }
+  ],
+  "OpenAnim": [
+    {
+      "id": "1",
+      "teller": "旁白",
+      "content": "滑稽2333年，\\r\\n身为表情界扛把子蘑菇头，\\r\\n在表情界已无敌手。\\r\\n然而一场危机正在向蘑菇头慢慢靠近。。。",
+      "headImg": "HasWho"
+    }
+  ]
+}
